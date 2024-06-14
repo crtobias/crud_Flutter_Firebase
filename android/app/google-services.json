@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271280089472",
+    "project_id": "treenote-e1fe3",
+    "storage_bucket": "treenote-e1fe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271280089472:android:0e1ea49ca781183fa6b965",
+        "android_client_info": {
+          "package_name": "com.example.tree_note"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOIVzXK0pRM51S7D-_6SSSFY-mHQfsBSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
